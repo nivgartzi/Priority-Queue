@@ -2,7 +2,7 @@
 
 public class FibonacciHeap
 {
-	public static int links=0;
+	public static int links;
 	public static int cuts;
 	public int Trees;
 	public int size;
